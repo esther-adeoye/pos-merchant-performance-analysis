@@ -44,4 +44,4 @@ covers October 2025 to September 2026 (143,577 transactions).
 - `eda_pos_merchant_analytics.sql`: analysis queries and the views used by the dashboard
 
 ## Links
-Portfolio: [add link] | Dashboard walkthrough: [add video link]
+Dashboard : [https://app.powerbi.com/view?r=eyJrIjoiMjJlNzliOWUtMzNmMC00NGFmLWExMGMtYTA5NDhmY2RjMGNjIiwidCI6IjgwM2U2MTdmLTFiZmMtNGU3My1hNzhjLWU0NzZlNTgyYzQ1OCJ9]
